@@ -1,0 +1,106 @@
+.ma-classe{
+    color: rgb(241, 199, 199);
+}
+h1 {
+    font-family: "Lobster", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4em;
+    text-align: center;
+    color: rgba(85, 121, 85, 0.5);
+    padding: 50px;
+    background-attachment: fixed;
+    background-size: cover;
+    background: linear-gradient(to right,#fc00ff,#8eb9b9);
+    width: 500px;
+    margin: auto;
+    border-radius: 65% 35% 57% 43% / 51% 42% 58% 49% 
+  }
+p{
+    font-size: 2em;
+}
+li{
+    font-size: 2em;
+}
+h2{
+    font-size: 2em;
+    color:rgb(118, 150, 153);
+}
+a{
+    font-size: 1.5em;
+    background-color: azure;
+}
+body{
+    background-color: rgb(182, 198, 216);
+    margin: 50px;
+}
+a{
+    font-size: 32px;
+    text-decoration: none;
+}
+.border{
+border-radius: 65% 35% 57% 43% / 51% 42% 58% 49%  ;
+}
+.resume{
+    border: 5px black solid;
+    border-radius:10px 30px 10px 30px;
+    background-color: white;
+    text-align: center;
+    box-shadow: rgba(36, 56, 77, 0.5) 0px 20px 30px -10px;
+    font-size: 5em;
+    font-family: "Lobster", serif;
+    opacity: 0.5;
+}
+img:hover{
+    opacity: 0.6;
+}
+a:hover{
+    color: #000046;
+    text-decoration: underline;
+}
+.mon-element:hover{
+        background-color: #BEAEE2;
+}
+a:focus{
+    background-color: azure;
+}
+.fond{
+    margin: 55px;
+}
+.box{
+    border: solid ;
+    padding: 80px;
+    width: 190px;
+    border-radius: 5%;
+}
+.conteneur{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 1000px 2000px;
+    grid-template-rows: 300px 200px;
+    gap: 10px;
+}
+td,th{
+    border: solid black;
+    padding: 20px;
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+}
+
+@media screen and (max-width:1200px){
+    p{
+        color: #fc00ff;
+    }
+}
+@media screen and (max-width:1500px) {
+    .conteneur{
+        display: flex;
+        flex-direction: column;
+        overflow: scroll;
+    }
+}

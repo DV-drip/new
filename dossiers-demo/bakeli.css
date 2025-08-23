@@ -1,0 +1,22 @@
+*{
+    font-family: Arial;
+}
+h1{
+    font-style: italic;
+}
+p,h1{
+    text-indent: 10px;
+}
+div{
+    background-color: aquamarine;
+    margin: 90px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: inset 5px 5px 50px ;
+    padding: 1px;
+}
+img{
+    border: solid red 20px;
+    box-shadow: 5px 5px 5px black;
+    margin: 10px;
+}
