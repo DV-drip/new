@@ -1,7 +1,6 @@
 .anim{
     background-color: red;
-    width: 300px;
-    height: 100px;
+
     text-align: center;
     transition: padding 1s,background 1s;
 }
@@ -23,4 +22,7 @@
     to{
         background-color: red;
     }
+}
+.container{
+    background-color: red
 }

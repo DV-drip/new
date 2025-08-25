@@ -81,7 +81,7 @@ nav{
     opacity: 0.5;
 }
 .section-1{
-    background-image: url(/image_test/R.jpeg);
+    background-image: url(../image_test/R.jpeg);
     background-size: cover;
     background-position: center;
     height: 700px;
@@ -110,7 +110,7 @@ nav{
     padding: 30vh;
 }
 .fond{
-    background-image: url(/image_test/Group-1000001627-480x516.jpg);
+    background-image: url(../image_test/Group-1000001627-480x516.jpg);
     background-size: cover;
     background-position: center;
     padding-top: 500px;
@@ -167,7 +167,7 @@ nav{
     margin: 30px;
 }
 .tof1{
-    background-image: url(/image_test/OIP\ \(2\).webp);
+    background-image: url(../image_test/OIP\ \(2\).webp);
     background-position: center;
     background-size: cover;
     padding: 10vh;
@@ -178,7 +178,7 @@ nav{
     align-items: center;
 }
 .tof2{
-    background-image: url(/image_test/OIP\ \(3\).webp);
+    background-image: url(../image_test/OIP\ \(3\).webp);
     background-position: center;
     background-size: cover;
     padding: 10vh;
@@ -189,7 +189,7 @@ nav{
     align-items: center;
 }
 .tof3{
-    background-image: url(/image_test/rhqsy95qektmz31pcsv5.jpeg);
+    background-image: url(../image_test/rhqsy95qektmz31pcsv5.jpeg);
     background-position: center;
     background-size: cover;
     padding: 10vh;
@@ -200,7 +200,7 @@ nav{
     align-items: center;
 }
 .tof4{
-    background-image: url(/image_test/OIP\ \(4\).webp);
+    background-image: url(../image_test/OIP\ \(4\).webp);
     background-position: center;
     background-size: cover;
     padding: 10vh;
